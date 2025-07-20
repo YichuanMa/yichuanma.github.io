@@ -27,10 +27,6 @@ Research Interest
 
 **·** **Updating scientific knowledge about mountains**: With advanced, topography-integrated satellite products, exploring new insights into comprehension of energy budgets and ecosystems in mountain areas.
 
-Selected Publications
-------
-
-
 Awards
 ------
 **·** National Scholarship, 2023/2018/2017  
