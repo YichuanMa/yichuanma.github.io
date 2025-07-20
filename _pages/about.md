@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hello! I am a remote sensing researcher passionate about pioneering new algorithms to estimate various surface parameters over complex terrains, such as surface reflectance, surface albedo, shortwave radiation. As mountains face rapid climate change, remote sensing offers unparalleled long-term, large-scale monitoring capabilities, and I'm excited about how my work empowers critical studies in environmental science and beyond.
+Currently, I am a Post-doctoral Research Fellow in the Department of Geography at the University of Hong Kong, working with Prof. [Shunlin Liang](https://geog.hku.hk/sl-liang). You can access our Lab Page [here](https://jcqrs.hku.hk/). I got my PhD from Wuhan University in 2024, under the supervision of Prof. [Tao He](https://jszy.whu.edu.cn/hetao1/zh_CN/).
 
 A data-driven personal website
 ======
