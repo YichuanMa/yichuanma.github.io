@@ -9,6 +9,7 @@ redirect_from:
 Hello! I am a remote sensing researcher passionate about pioneering new algorithms to estimate various surface parameters over complex terrains, such as surface reflectance, surface albedo, shortwave radiation. As mountains face rapid climate change, remote sensing offers unparalleled long-term, large-scale monitoring capabilities, and I'm excited about how my work empowers critical studies in environmental science and beyond.
 
 Currently, I am a Post-doctoral Research Fellow in the Department of Geography at the University of Hong Kong, working with Prof. [Shunlin Liang](https://geog.hku.hk/sl-liang). You can access our Lab Page [here](https://jcqrs.hku.hk/).
+
 Publications
 ------
 8. Yichuan Ma, Shunlin Liang, Wanshan Peng, Tao He, et al. (2025) [A universal physically-based topographic correction framework for high-resolution optical satellite data](https://www.sciencedirect.com/science/article/pii/S0034425724003298). *ISPRS Journal of Photogrammetry and Remote Sensing*, 227, 459-480 (Q1, IF = 12.2)  
