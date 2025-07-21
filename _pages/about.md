@@ -21,15 +21,6 @@ Publications
 2. Yichuan Ma, Tao He, Shunlin Liang, Jianguang Wen, Jean Phillipe Gastellu-Etchegorry, et al. (2022) [Landsat snow-free surface albedo estimation over sloping terrain: Algorithm development and evaluation](https://ieeexplore.ieee.org/document/9706479). *IEEE Transactions on Geoscience and Remote Sensing*, 60, 1-14 (Q1, IF = 8.6)  
 1. Yichuan Ma, Tao He, Ainong Li, Sike Li (2021) [Evaluation and Intercomparison of Topographic Correction Methods Based on Landsat Images and Simulated Data](https://www.mdpi.com/2072-4292/13/20/4120). *Remote Sensing*, 13, 4120. (Q1, IF = 4.1)
 
-Education
-------
-**· Ph.D. in Remote Sensing Science and Technology** (Sep/2019-Jun/2024)  
-Wuhan University (WHU), Supervisor: Prof. [Tao He](https://jszy.whu.edu.cn/hetao1/zh_CN/)  
-**· Visiting PhD student** (Jun/2023-Mar/2024)  
-CSIRO Environment, Supervisor: Dr. [Tim McVicar](https://people.csiro.au/M/T/Tim-Mcvicar)  
-**· BEng in Spatial Information and Digital Technology** (Sep/2015-Jun/2019)  
-University of Electronic Science and Technology of China (UESTC), Supervisor: Prof. [Binbin He](https://faculty.uestc.edu.cn/hebinbin/zh_CN/index.htm) and Prof. [Minfeng Xing](https://faculty.uestc.edu.cn/xingminfeng/zh_CN/index.htm)
-
 Research Interest
 ------
 **·** **Investigating Topography's Impact on Satellite Data**: With most satellite algorithms ignoring topographic effects like shadowing, evaluating the reliability of multiple satellite-estimated surface parameters across varied spatial and temporal scales.
@@ -37,6 +28,17 @@ Research Interest
 **·** **Pioneering Algorithms for Surface Parameter Estimation in Rugged Terrains**: Develop both robustness and effecient methods that fully incorporate topographic effects, enabling the generation of long-term and large-scale datasets for mountainous areas.
 
 **·** **Updating scientific knowledge about mountains**: With advanced, topography-integrated satellite products, exploring new insights into comprehension of energy budgets and ecosystems in mountain areas.
+
+Education
+------
+**· Ph.D. in Remote Sensing Science and Technology** (Sep/2019-Jun/2024)  
+Wuhan University (WHU), Supervisor: Prof. [Tao He](https://jszy.whu.edu.cn/hetao1/zh_CN/)
+
+**· Visiting PhD student** (Jun/2023-Mar/2024)  
+CSIRO Environment, Supervisor: Dr. [Tim McVicar](https://people.csiro.au/M/T/Tim-Mcvicar)
+
+**· BEng in Spatial Information and Digital Technology** (Sep/2015-Jun/2019)  
+University of Electronic Science and Technology of China (UESTC), Supervisor: Prof. [Binbin He](https://faculty.uestc.edu.cn/hebinbin/zh_CN/index.htm) and Prof. [Minfeng Xing](https://faculty.uestc.edu.cn/xingminfeng/zh_CN/index.htm)
 
 Awards
 ------
@@ -54,4 +56,3 @@ Personal information
 ------
 Born in Xi'an, China, I like noodles!  
 Badminton, strengh training, swim, hike, travel.
-
