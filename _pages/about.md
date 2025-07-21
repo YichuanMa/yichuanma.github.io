@@ -31,13 +31,13 @@ Research Interest
 
 Education
 ------
-**· Ph.D. in Remote Sensing Science and Technology** (Sep/2019-Jun/2024)  
+**·** Ph.D. in Remote Sensing Science and Technology (Sep/2019-Jun/2024)  
 Wuhan University (WHU), Supervisor: Prof. [Tao He](https://jszy.whu.edu.cn/hetao1/zh_CN/)
 
-**· Visiting PhD student** (Jun/2023-Mar/2024)  
+**·** Visiting PhD student (Jun/2023-Mar/2024)  
 CSIRO Environment, Supervisor: Dr. [Tim McVicar](https://people.csiro.au/M/T/Tim-Mcvicar)
 
-**· BEng in Spatial Information and Digital Technology** (Sep/2015-Jun/2019)  
+**·** BEng in Spatial Information and Digital Technology (Sep/2015-Jun/2019)  
 University of Electronic Science and Technology of China (UESTC), Supervisor: Prof. [Binbin He](https://faculty.uestc.edu.cn/hebinbin/zh_CN/index.htm) and Prof. [Minfeng Xing](https://faculty.uestc.edu.cn/xingminfeng/zh_CN/index.htm)
 
 Awards
