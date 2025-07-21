@@ -1,13 +1,11 @@
 ---
 permalink: /
-#title: "About me"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-About me
-------
 Hello! I am a remote sensing researcher passionate about pioneering new algorithms to estimate various surface parameters over complex terrains, such as surface reflectance, surface albedo, shortwave radiation. As mountains face rapid climate change, remote sensing offers unparalleled long-term, large-scale monitoring capabilities, and I'm excited about how my work empowers critical studies in environmental science and beyond.
 
 Currently, I am a Post-doctoral Research Fellow in the Department of Geography at the University of Hong Kong, working with Prof. [Shunlin Liang](https://geog.hku.hk/sl-liang). You can access our Lab Page [here](https://jcqrs.hku.hk/).
