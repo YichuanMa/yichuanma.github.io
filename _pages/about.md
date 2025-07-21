@@ -11,13 +11,13 @@ Hello! I am a remote sensing researcher passionate about pioneering new algorith
 
 Currently, I am a Post-doctoral Research Fellow in the Department of Geography at the University of Hong Kong, working with Prof. [Shunlin Liang](https://geog.hku.hk/sl-liang). You can access our Lab Page [here](https://jcqrs.hku.hk/). 
 
-I got my PhD from Wuhan University in 2024, with insightful guidance of Prof. [Tao He](https://jszy.whu.edu.cn/hetao1/zh_CN/) and Dr. [Tim McVicar](https://people.csiro.au/M/T/Tim-Mcvicar). During my undergraduate journey at the University of Electronic Science and Technology of China (UESTC), I am fortunate to be advised by Prof. [Binbin He](https://faculty.uestc.edu.cn/hebinbin/zh_CN/index.htm) and Prof. [Minfeng Xing](https://faculty.uestc.edu.cn/xingminfeng/zh_CN/index.htm).
+I got my PhD from Wuhan University (WHU) in 2024, with insightful guidance of Prof. [Tao He](https://jszy.whu.edu.cn/hetao1/zh_CN/) and Dr. [Tim McVicar](https://people.csiro.au/M/T/Tim-Mcvicar). During my undergraduate journey at the University of Electronic Science and Technology of China (UESTC), I am fortunate to be advised by Prof. [Binbin He](https://faculty.uestc.edu.cn/hebinbin/zh_CN/index.htm) and Prof. [Minfeng Xing](https://faculty.uestc.edu.cn/xingminfeng/zh_CN/index.htm).
 
 Education
 ------
-**·** 2019-2024 PhD in Remote Sensing Science and Technology, Wuhan University (WHU), China  
-**·** 2023-2024 Visiting PhD student, CSIRO Environment, Australia  
-**·** 2015-2019 BEng in Spatial Information and Digital Technology, UESTC, China
+**·** Sep/2019-Jun/2024, Ph.D. in Remote Sensing Science and Technology, WHU, China  
+**·** Jun/2023-Mar/2024, Visiting PhD student, CSIRO Environment, Australia  
+**·** Sep/2015-Jun/2019, BEng in Spatial Information and Digital Technology, UESTC, China
 
 Research Interest
 ------
