@@ -2,12 +2,12 @@
 title: "Evaluation and intercomparison of topographic correction methods based on Landsat images and simulated data"
 collection: publications
 category: manuscripts
-permalink: [Evaluation and intercomparison of topographic correction methods based on Landsat images and simulated data](https://www.mdpi.com/2072-4292/13/20/4120)
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper evaluated ten widely-used topographic correction methods across China, and detailed their pros and cons.'
 date: 2021-10-14
 venue: 'Remote Sensing'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://www.mdpi.com/2072-4292/13/20/4120'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Ma, Y., He, T., Li, A. and Li, S. (2021). &quot;Paper Evaluation and intercomparison of topographic correction methods based on Landsat images and simulated data.&quot; <i>Remote Sensing</i>. 13(20).'
 ---
