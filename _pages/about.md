@@ -55,4 +55,4 @@ Awards
 Personal information
 ------
 Born in Xi'an, China, I like noodles!  
-Badminton, strengh training, swim, hike, travel.
+Badminton, strength training, swiming, hiking, traveling.
