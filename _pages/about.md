@@ -12,6 +12,7 @@ Hello! I am a remote sensing researcher passionate about pioneering new algorith
 Currently, I am a Post-doctoral Research Fellow in the Department of Geography at the University of Hong Kong, working with Prof. [Shunlin Liang](https://geog.hku.hk/sl-liang). You can access our Lab Page [here](https://jcqrs.hku.hk/).
 
 Publications
+## Publications {#publications}
 ------
 8. Yichuan Ma, Shunlin Liang, Wanshan Peng, Tao He, et al. (2025) [A universal physically-based topographic correction framework for high-resolution optical satellite data](https://www.sciencedirect.com/science/article/pii/S092427162500214X?via%3Dihub). *ISPRS Journal of Photogrammetry and Remote Sensing*, 227, 459-480 (Q1, IF = 12.2)  
 7. Yichuan Ma, Shunlin Liang, Tao He, Wanshan Peng (2025). [Significant topographic impacts on moderate-resolution satellite products: Evidence from both geostationary and polar-orbiting satellites and model simulations](https://ieeexplore.ieee.org/document/11010848). *IEEE Transactions on Geoscience and Remote Sensing*, 63, 1-14 (Q1, IF = 8.6)  
@@ -23,6 +24,7 @@ Publications
 1. Yichuan Ma, Tao He, Ainong Li, Sike Li (2021) [Evaluation and Intercomparison of Topographic Correction Methods Based on Landsat Images and Simulated Data](https://www.mdpi.com/2072-4292/13/20/4120). *Remote Sensing*, 13, 4120. (Q1, IF = 4.1)
 
 Research Interest
+## Research Interest {#Research Interest}
 ------
 **·** **Investigating Topography's Impact on Satellite Data**: With most satellite algorithms ignoring topographic effects like shadowing, evaluating the reliability of multiple satellite-estimated surface parameters across varied spatial and temporal scales.
 
@@ -31,6 +33,7 @@ Research Interest
 **·** **Updating scientific knowledge about mountains**: With advanced, topography-integrated satellite products, exploring new insights into comprehension of energy budgets and ecosystems in mountain areas.
 
 Education
+## Education {#Education}
 ------
 **·** Ph.D. in Remote Sensing Science and Technology (Sep/2019-Jun/2024)  
 Wuhan University (WHU), Supervisor: Prof. [Tao He](https://jszy.whu.edu.cn/hetao1/zh_CN/)
@@ -42,6 +45,7 @@ CSIRO Environment, Supervisor: Dr. [Tim McVicar](https://people.csiro.au/M/T/Tim
 University of Electronic Science and Technology of China (UESTC), Supervisor: Prof. [Binbin He](https://faculty.uestc.edu.cn/hebinbin/zh_CN/index.htm) and Prof. [Minfeng Xing](https://faculty.uestc.edu.cn/xingminfeng/zh_CN/index.htm)
 
 Awards
+## Awards {#Awards}
 ------
 **·** National Scholarship, 2023/2018/2017  
 **·** Grand prize of “Wang Zhizhuo Innovation Award” (2 at WHU), 2023  
