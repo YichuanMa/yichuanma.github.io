@@ -9,15 +9,18 @@
 
 main:
   - title: "About me"
+  
   - title: "Publications"
-  #  url: /publications/
-   
-
+    url: /#publications/
+    
   - title: "Education"
-  #  url: /news/    
+    url: /#Education/  
+    
   - title: "Research Interest"
+    url: /#Research/
+    
   - title: "Awards"
-  #  url: /portfolio/
+    url: /#Awards/
 
   #  url: /cv/
     
