@@ -11,16 +11,16 @@ main:
   - title: "About me"
   
   - title: "Publications"
-    url: /#publications/
+    url: /#publications
     
   - title: "Education"
-    url: /#Education/  
+    url: /#education 
     
   - title: "Research Interest"
-    url: /#Research/
+    url: /#research
     
   - title: "Awards"
-    url: /#Awards/
+    url: /#awards
 
   #  url: /cv/
     
