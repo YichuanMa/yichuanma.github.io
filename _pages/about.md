@@ -12,7 +12,6 @@ Hello! I am a remote sensing researcher passionate about pioneering new algorith
 Currently, I am a Post-doctoral Research Fellow in the Department of Geography at the University of Hong Kong, working with Prof. [Shunlin Liang](https://geog.hku.hk/sl-liang). You can access our Lab Page [here](https://jcqrs.hku.hk/).
 
 Publications
-## Publications {#publications}
 ------
 8. Yichuan Ma, Shunlin Liang, Wanshan Peng, Tao He, et al. (2025) [A universal physically-based topographic correction framework for high-resolution optical satellite data](https://www.sciencedirect.com/science/article/pii/S092427162500214X?via%3Dihub). *ISPRS Journal of Photogrammetry and Remote Sensing*, 227, 459-480 (Q1, IF = 12.2)  
 7. Yichuan Ma, Shunlin Liang, Tao He, Wanshan Peng (2025). [Significant topographic impacts on moderate-resolution satellite products: Evidence from both geostationary and polar-orbiting satellites and model simulations](https://ieeexplore.ieee.org/document/11010848). *IEEE Transactions on Geoscience and Remote Sensing*, 63, 1-14 (Q1, IF = 8.6)  
