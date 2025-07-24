@@ -35,7 +35,7 @@ Currently, I am a Post-doctoral Research Fellow in the Department of Geography a
 **·** Ph.D. in Remote Sensing Science and Technology (Sep/2019-Jun/2024)  
 Wuhan University (WHU), Supervisor: Prof. [Tao He](https://jszy.whu.edu.cn/hetao1/zh_CN/)
 
-**·** Visiting PhD student (Jun/2023-Mar/2024)  
+**·** Visiting Ph.D. student (Jun/2023-Mar/2024)  
 CSIRO Environment, Supervisor: Dr. [Tim McVicar](https://people.csiro.au/M/T/Tim-Mcvicar)
 
 **·** BEng in Spatial Information and Digital Technology (Sep/2015-Jun/2019)  
@@ -55,5 +55,6 @@ University of Electronic Science and Technology of China (UESTC), Supervisor: Pr
 
 ## Personal information {#personal}
 ------
-Born in Xi'an, China, I like noodles!  
+Born in Xi'an, China, I like noodles!
+
 Badminton, strength training, swiming, hiking, traveling.
