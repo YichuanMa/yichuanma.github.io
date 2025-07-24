@@ -24,7 +24,7 @@ Publications
 1. Yichuan Ma, Tao He, Ainong Li, Sike Li (2021) [Evaluation and Intercomparison of Topographic Correction Methods Based on Landsat Images and Simulated Data](https://www.mdpi.com/2072-4292/13/20/4120). *Remote Sensing*, 13, 4120. (Q1, IF = 4.1)
 
 Research Interest
-## Research Interest {#Research Interest}
+## Research Interest {#Research}
 ------
 **·** **Investigating Topography's Impact on Satellite Data**: With most satellite algorithms ignoring topographic effects like shadowing, evaluating the reliability of multiple satellite-estimated surface parameters across varied spatial and temporal scales.
 
