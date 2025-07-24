@@ -12,12 +12,12 @@ main:
   
   - title: "Publications"
     url: /#publications
+
+  - title: "Research Interest"
+    url: /#research
     
   - title: "Education"
     url: /#education 
-    
-  - title: "Research Interest"
-    url: /#research
     
   - title: "Awards"
     url: /#awards
