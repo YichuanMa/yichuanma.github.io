@@ -13,8 +13,10 @@ Currently, I am a Post-doctoral Research Fellow in the Department of Geography a
 
 ## Publications {#publications}
 ------
-8. Tao He, Yichuan Ma, Dongdong Wang, Ying Qu (2026) [5.08 - Land Surface Albedo](https://www.sciencedirect.com/science/article/pii/B9780443132209000834). *Comprehensive Remote Sensing (Second Edition)*, 206-231, ISBN:9780443239496 (Book chapter, published by Elsevier)
-9. Yichuan Ma, Shunlin Liang, Wanshan Peng, Tao He, et al. (2025) [A universal physically-based topographic correction framework for high-resolution optical satellite data](https://www.sciencedirect.com/science/article/pii/S092427162500214X?via%3Dihub). *ISPRS Journal of Photogrammetry and Remote Sensing*, 227, 459-480 (Q1, IF = 12.2)  
+8. Yichuan Ma, Shunlin Liang, Han Ma, Tao He, et al. (2026). An integrated atmospheric-topographic correction framework for land
+surface reflectance estimation using a spatial-spectral U-Net attention model (accepted). *Remote Sensing of Environment* (Q1, IF = 11.4) 
+9. Tao He, Yichuan Ma, Dongdong Wang, Ying Qu (2026) [5.08 - Land Surface Albedo](https://www.sciencedirect.com/science/article/pii/B9780443132209000834). *Comprehensive Remote Sensing (Second Edition)*, 206-231, ISBN:9780443239496 (Book chapter, published by Elsevier)
+10. Yichuan Ma, Shunlin Liang, Wanshan Peng, Tao He, et al. (2025) [A universal physically-based topographic correction framework for high-resolution optical satellite data](https://www.sciencedirect.com/science/article/pii/S092427162500214X?via%3Dihub). *ISPRS Journal of Photogrammetry and Remote Sensing*, 227, 459-480 (Q1, IF = 12.2)  
 7. Yichuan Ma, Shunlin Liang, Tao He, Wanshan Peng (2025). [Significant topographic impacts on moderate-resolution satellite products: Evidence from both geostationary and polar-orbiting satellites and model simulations](https://ieeexplore.ieee.org/document/11010848). *IEEE Transactions on Geoscience and Remote Sensing*, 63, 1-14 (Q1, IF = 8.6)  
 6. Yichuan Ma, Tao He, Tim McVicar, Shunlin Liang, et al. (2024). [Quantifying how topography impacts vegetation indices at various spatial and temporal scales](https://www.sciencedirect.com/science/article/pii/S0034425724003298). *Remote Sensing of Environment*, 312, 114311 (Q1, IF = 11.4)  
 5. Yichuan Ma, Tao He, Cristina Aguilar, Rafael Pimentel, et al. (2024) [Evaluating topographic effects on kilometer-scale satellite downward shortwave radiation products: A case study in mid-latitude mountains](https://ieeexplore.ieee.org/document/10436638). *IEEE Transactions on Geoscience and Remote Sensing*, 62, 1-16 (Q1, IF = 8.6)  
@@ -22,6 +24,10 @@ Currently, I am a Post-doctoral Research Fellow in the Department of Geography a
 3. Yichuan Ma, Tao He, Shunlin Liang, Xiongxin Xiao (2022) [Quantifying the impacts of DEM uncertainty on clear-sky surface shortwave radiation estimation in typical mountainous areas](https://www.sciencedirect.com/science/article/pii/S0168192322004099). *Agricultural and Forest Meteorology*, 307, 109222 (Q1, IF = 5.7)  
 2. Yichuan Ma, Tao He, Shunlin Liang, Jianguang Wen, Jean Phillipe Gastellu-Etchegorry, et al. (2022) [Landsat snow-free surface albedo estimation over sloping terrain: Algorithm development and evaluation](https://ieeexplore.ieee.org/document/9706479). *IEEE Transactions on Geoscience and Remote Sensing*, 60, 1-14 (Q1, IF = 8.6)  
 1. Yichuan Ma, Tao He, Ainong Li, Sike Li (2021) [Evaluation and Intercomparison of Topographic Correction Methods Based on Landsat Images and Simulated Data](https://www.mdpi.com/2072-4292/13/20/4120). *Remote Sensing*, 13, 4120. (Q1, IF = 4.1)
+
+## Patent
+------
+Yichuan Ma, Shunlin Liang, Han Ma, An estimation method for mountainous surface reflectance from remote sensing. Chinese Patent: FIE25230075
 
 ## Editorial and reivew experience
 ------
