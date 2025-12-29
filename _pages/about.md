@@ -13,8 +13,8 @@ Currently, I am a Post-doctoral Research Fellow in the Department of Geography a
 
 ## Publications {#publications}
 ------
-8. Yichuan Ma, Shunlin Liang, Han Ma, Tao He, et al. (2026). An integrated atmospheric-topographic correction framework for land
-surface reflectance estimation using a spatial-spectral U-Net attention model (accepted). *Remote Sensing of Environment* (Q1, IF = 11.4) 
+8. Yichuan Ma, Shunlin Liang, Han Ma, Tao He, et al. (2026). [An integrated atmospheric-topographic correction framework for land
+surface reflectance estimation using a spatial-spectral Attention U-Net model](https://doi.org/10.1016/j.rse.2025.115188). *Remote Sensing of Environment*, 334,115188 (Q1, IF = 11.4) 
 9. Tao He, Yichuan Ma, Dongdong Wang, Ying Qu (2026) [5.08 - Land Surface Albedo](https://www.sciencedirect.com/science/article/pii/B9780443132209000834). *Comprehensive Remote Sensing (Second Edition)*, 206-231, ISBN:9780443239496 (Book chapter, published by Elsevier)
 10. Yichuan Ma, Shunlin Liang, Wanshan Peng, Tao He, et al. (2025) [A universal physically-based topographic correction framework for high-resolution optical satellite data](https://www.sciencedirect.com/science/article/pii/S092427162500214X?via%3Dihub). *ISPRS Journal of Photogrammetry and Remote Sensing*, 227, 459-480 (Q1, IF = 12.2)  
 7. Yichuan Ma, Shunlin Liang, Tao He, Wanshan Peng (2025). [Significant topographic impacts on moderate-resolution satellite products: Evidence from both geostationary and polar-orbiting satellites and model simulations](https://ieeexplore.ieee.org/document/11010848). *IEEE Transactions on Geoscience and Remote Sensing*, 63, 1-14 (Q1, IF = 8.6)  
