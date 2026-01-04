@@ -33,7 +33,7 @@ Yichuan Ma, Shunlin Liang, Han Ma. An estimation method for mountainous surface 
 ------
 **·** Guest editor for *Remote Sensing* Special Issue "[Radiative Transfer Models for Remote Sensing Land Surface Parameter Estimation](https://www.mdpi.com/journal/remotesensing/special_issues/74JW6QG70G)"
 
-**·** Active reviewer for leading international journals (with over 70 completed reviews), including *Remote Sensing of Environment*, *ISPRS Journal of Photogrammetry and Remote Sensing*, *IEEE Transactions on Geoscience and Remote Sensing*, *Journal of Remote Sensing*, *Science of Remote Sensing* etc.
+**·** Active reviewer for leading international journals (with over 70 completed reviews), including *Remote Sensing of Environment*, *ISPRS Journal of Photogrammetry and Remote Sensing*, *IEEE Transactions on Geoscience and Remote Sensing*, *Journal of Remote Sensing*, *Science of Remote Sensing*, etc.
 
 ## Research Interest {#research}
 ------
