@@ -30,8 +30,8 @@ Yichuan Ma, Shunlin Liang, Han Ma. An estimation method for mountainous surface 
 
 ## Book Chapter
 ------
-**·** Tao He, Yichuan Ma, Thomas Hilker (2026) [3.03 - Surface Reflectance/Bidirectional Reflectance Distribution Function](https://doi.org/10.1016/B978-0-443-13220-9.00097-4). *Comprehensive Remote Sensing (Second Edition)*, 3, 21-30, ISBN:9780443239496 (Published by Elsevier)  
-**·** Tao He, Yichuan Ma, Dongdong Wang, Ying Qu (2026) [5.08 - Land Surface Albedo](https://www.sciencedirect.com/science/article/pii/B9780443132209000834). *Comprehensive Remote Sensing (Second Edition)*, 5, 206-231, ISBN:9780443239496 (Published by Elsevier)  
+1. Tao He, Yichuan Ma, Thomas Hilker (2026) [3.03 - Surface Reflectance/Bidirectional Reflectance Distribution Function](https://doi.org/10.1016/B978-0-443-13220-9.00097-4). *Comprehensive Remote Sensing (Second Edition)*, 3, 21-30, ISBN:9780443239496 (Published by Elsevier)  
+2. Tao He, Yichuan Ma, Dongdong Wang, Ying Qu (2026) [5.08 - Land Surface Albedo](https://www.sciencedirect.com/science/article/pii/B9780443132209000834). *Comprehensive Remote Sensing (Second Edition)*, 5, 206-231, ISBN:9780443239496 (Published by Elsevier)  
 
 
 ## Editorial and reivew experience
