@@ -106,3 +106,4 @@ Born in Xi'an, China, I like noodles!
 Badminton, strength training, swiming, hiking, traveling.
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=6ZZcC487OeoSX74QRtGQPyNKNzMMzSvjp6NYsr5rL50&cl=ffffff&w=a"></script>
+<a href="https://mapmyvisitors.com/web/1c3lz"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=6ZZcC487OeoSX74QRtGQPyNKNzMMzSvjp6NYsr5rL50&cl=ffffff" /></a>
