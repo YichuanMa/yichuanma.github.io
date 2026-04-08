@@ -13,7 +13,7 @@ Currently, I am a Post-doctoral Research Fellow in the Department of Geography a
 
 ## Publications {#publications}
 ------
-1. **Ma, Y.**, He, T., Liang, S., Zhang, X., McVicar, T., Cai, D., Peng, W., Zheng, Y., Liu, T., Liu, X., 2026. Estimating downward shortwave radiation incorporating topographic effects using a hybrid physical and data-driven method: Algorithm development and long-term global product generation. *Remote Sensing of Environment* (In Proof)
+1. **Ma, Y.**, He, T., Liang, S., Zhang, X., McVicar, T., Cai, D., Peng, W., Zheng, Y., Liu, T., Liu, X., 2026. Estimating downward shortwave radiation incorporating topographic effects using a hybrid physical and data-driven method: Algorithm development and long-term global product generation. *Remote Sensing of Environment*, 115402 (in proof)
 2. **Ma, Y.**, Liang, S., Ma, H., He, T., Shi, X., Li, W., Cai, D., Xiao, X., Guan, S., Liu, W. and Xu, J., 2026. [An integrated atmospheric-topographic correction framework for land surface reflectance estimation using a spatial-spectral Attention U-Net model](https://doi.org/10.1016/j.rse.2025.115188). *Remote Sensing of Environment*, 334,115188
 3. **Ma, Y.**, Liang, S., Peng, W., He, T., Ma, H., Chen, Y., Li, W., Xu, J. and Guan, S., 2025. [A universal physically-based topographic correction framework for high-resolution optical satellite data](https://www.sciencedirect.com/science/article/pii/S092427162500214X?via%3Dihub). *ISPRS Journal of Photogrammetry and Remote Sensing*, 227, 459-480
 4. **Ma, Y.**, Liang, S., He, T. and Peng, W., 2025. [Significant topographic impacts on moderate-resolution satellite products: Evidence from both geostationary and polar-orbiting satellites and model simulations](https://ieeexplore.ieee.org/document/11010848). *IEEE Transactions on Geoscience and Remote Sensing*, 63, 1-14
@@ -65,7 +65,7 @@ Yichuan Ma, Shunlin Liang, Han Ma. An estimation method for mountainous surface 
 ------
 **·** Guest editor for *Remote Sensing* Special Issue "[Radiative Transfer Models for Remote Sensing Land Surface Parameter Estimation](https://www.mdpi.com/journal/remotesensing/special_issues/74JW6QG70G)"
 
-**·** Active reviewer for leading international journals (with over 70 completed reviews), including *Remote Sensing of Environment*, *ISPRS Journal of Photogrammetry and Remote Sensing*, *IEEE Transactions on Geoscience and Remote Sensing*, *Journal of Remote Sensing*, *Renewable Energy*, *Journal of Hydrology*, *Atmospheric Chemistry and Physics*, etc.
+**·** Active reviewer for leading international journals (with over 80 completed reviews), including *Remote Sensing of Environment*, *ISPRS Journal of Photogrammetry and Remote Sensing*, *IEEE Transactions on Geoscience and Remote Sensing*, *International Journal of Applied Earth Observation and Geoinformation*, *Journal of Remote Sensing*, *Science of Remote Sensing*, *Applied Energy*, *Renewable Energy*, *Journal of Hydrology*, *Atmospheric Chemistry and Physics*, *Building and Envrionment*, etc.
 
 ## Research Interest {#research}
 ------
