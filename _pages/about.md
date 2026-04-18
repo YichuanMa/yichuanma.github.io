@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a remote sensing researcher passionate about pioneering new algorithms to estimate various surface parameters over complex terrains, such as surface reflectance, surface albedo, shortwave radiation. As mountains face rapid climate change, remote sensing offers unparalleled long-term, large-scale monitoring capabilities, and I'm excited about how my work empowers critical studies in environmental science and beyond.
+Hello! I am a remote sensing guy passionate about pioneering new algorithms to estimate various surface parameters over complex terrains, such as surface reflectance, surface albedo, shortwave radiation. As mountains face rapid climate change, remote sensing offers unparalleled long-term, large-scale monitoring capabilities, and I'm excited about how my work empowers critical studies in environmental science and beyond.
 
 Currently, I am a Post-doctoral Research Fellow in the Department of Geography at the University of Hong Kong, working with Prof. [Shunlin Liang](https://geog.hku.hk/sl-liang). You can access our Lab Page [here](https://jcqrs.hku.hk/).
 
 ## Publications {#publications}
 ------
-1. **Ma, Y.**, He, T., Liang, S., Zhang, X., McVicar, T., Cai, D., Peng, W., Zheng, Y., Liu, T., Liu, X., 2026. [Estimating downward shortwave radiation incorporating topographic effects using a hybrid physical and data-driven method: Algorithm development and long-term global product generation](https://doi.org/10.1016/j.rse.2026.115402). *Remote Sensing of Environment*, 340, 115402
+1. **Ma, Y.**, He, T., Liang, S., Zhang, X., McVicar, T.R., Cai, D., Peng, W., Zheng, Y., Liu, T., Liu, X., 2026. [Estimating downward shortwave radiation incorporating topographic effects using a hybrid physical and data-driven method: Algorithm development and long-term global product generation](https://doi.org/10.1016/j.rse.2026.115402). *Remote Sensing of Environment*, 340, 115402
 2. **Ma, Y.**, Liang, S., Ma, H., He, T., Shi, X., Li, W., Cai, D., Xiao, X., Guan, S., Liu, W. and Xu, J., 2026. [An integrated atmospheric-topographic correction framework for land surface reflectance estimation using a spatial-spectral Attention U-Net model](https://doi.org/10.1016/j.rse.2025.115188). *Remote Sensing of Environment*, 334, 115188
 3. **Ma, Y.**, Liang, S., Peng, W., He, T., Ma, H., Chen, Y., Li, W., Xu, J. and Guan, S., 2025. [A universal physically-based topographic correction framework for high-resolution optical satellite data](https://www.sciencedirect.com/science/article/pii/S092427162500214X?via%3Dihub). *ISPRS Journal of Photogrammetry and Remote Sensing*, 227, 459-480
 4. **Ma, Y.**, Liang, S., He, T. and Peng, W., 2025. [Significant topographic impacts on moderate-resolution satellite products: Evidence from both geostationary and polar-orbiting satellites and model simulations](https://ieeexplore.ieee.org/document/11010848). *IEEE Transactions on Geoscience and Remote Sensing*, 63, 1-14
