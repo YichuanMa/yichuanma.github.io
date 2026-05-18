@@ -13,7 +13,7 @@ Currently, I am a Post-doctoral Research Fellow in the Department of Geography a
 
 ## Publications {#publications}
 ------
-1. **Ma, Y.**, Liang, S., He, T., Wen, J., Li, A., Ma, H., Yao, Y., Xu, J., Li, W., Zhang, Y., 2026. Mitigating Topographic Effects in Optical Remote Sensing: From Surface Reflectance to High-level Products. *IEEE Geoscience and Remote Sensing Magazine*, accepted
+1. **Ma, Y.**, Liang, S., He, T., Wen, J., Li, A., Ma, H., Yao, Y., Xu, J., Li, W., Zhang, Y., 2026. Mitigating Topographic Effects in Optical Remote Sensing: From surface reflectance to high-level products. *IEEE Geoscience and Remote Sensing Magazine*, in Proof
 2. **Ma, Y.**, He, T., Liang, S., Zhang, X., McVicar, T.R., Cai, D., Peng, W., Zheng, Y., Liu, T., Liu, X., 2026. [Estimating downward shortwave radiation incorporating topographic effects using a hybrid physical and data-driven method: Algorithm development and long-term global product generation](https://doi.org/10.1016/j.rse.2026.115402). *Remote Sensing of Environment*, 340, 115402
 3. **Ma, Y.**, Liang, S., Ma, H., He, T., Shi, X., Li, W., Cai, D., Xiao, X., Guan, S., Liu, W. and Xu, J., 2026. [An integrated atmospheric-topographic correction framework for land surface reflectance estimation using a spatial-spectral Attention U-Net model](https://doi.org/10.1016/j.rse.2025.115188). *Remote Sensing of Environment*, 334, 115188
 4. **Ma, Y.**, Liang, S., Peng, W., He, T., Ma, H., Chen, Y., Li, W., Xu, J. and Guan, S., 2025. [A universal physically-based topographic correction framework for high-resolution optical satellite data](https://www.sciencedirect.com/science/article/pii/S092427162500214X?via%3Dihub). *ISPRS Journal of Photogrammetry and Remote Sensing*, 227, 459-480
@@ -104,7 +104,7 @@ University of Electronic Science and Technology of China (UESTC), Supervisor: Pr
 ------
 Born in Xi'an, China, I like noodles!
 
-Badminton, strength training, swiming, hiking, traveling.
+Strength training, badminton, hiking, traveling, swiming.
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=6ZZcC487OeoSX74QRtGQPyNKNzMMzSvjp6NYsr5rL50&cl=ffffff&w=a"></script>
 
