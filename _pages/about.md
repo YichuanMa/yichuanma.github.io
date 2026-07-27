@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "About me"
+title: "Yichuan"
 author_profile: true
 redirect_from: 
   - /about/
