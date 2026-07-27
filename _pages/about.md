@@ -54,12 +54,12 @@ Currently, I am a Post-doctoral Research Fellow in the Department of Geography a
 
 ## Patent
 ------
-Yichuan Ma, Shunlin Liang, Han Ma. An estimation method for mountainous surface reflectance from remote sensing. Chinese Patent: FIE25230075
+**Ma, Y.**, Liang, S., Ma, H. An estimation method for mountainous surface reflectance from remote sensing. Chinese Patent: FIE25230075
 
 ## Book Chapter
 ------
-1. Tao He, Yichuan Ma, Thomas Hilker (2026) [3.03 - Surface Reflectance/Bidirectional Reflectance Distribution Function](https://doi.org/10.1016/B978-0-443-13220-9.00097-4). *Comprehensive Remote Sensing (Second Edition)*, 3, 21-30, ISBN:9780443239496 (Published by Elsevier)  
-2. Tao He, Yichuan Ma, Dongdong Wang, Ying Qu (2026) [5.08 - Land Surface Albedo](https://www.sciencedirect.com/science/article/pii/B9780443132209000834). *Comprehensive Remote Sensing (Second Edition)*, 5, 206-231, ISBN:9780443239496 (Published by Elsevier)  
+1. He, T., **Ma, Y.**, Hilker, T. (2026) [3.03 - Surface Reflectance/Bidirectional Reflectance Distribution Function](https://doi.org/10.1016/B978-0-443-13220-9.00097-4). *Comprehensive Remote Sensing (Second Edition)*, 3, 21-30, ISBN:9780443239496 (Published by Elsevier)  
+2. He, T., **Ma, Y.**, Wang, D., Qu, Y. (2026) [5.08 - Land Surface Albedo](https://www.sciencedirect.com/science/article/pii/B9780443132209000834). *Comprehensive Remote Sensing (Second Edition)*, 5, 206-231, ISBN:9780443239496 (Published by Elsevier)  
 
 
 ## Editorial and reivew experience
