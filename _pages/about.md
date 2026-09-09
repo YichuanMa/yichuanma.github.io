@@ -1,17 +1,17 @@
 ---
 layout: archive
 permalink: /
-title: "Yichuan"
+title: "Hi, there!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hello! I am a remote sensing guy passionate about pioneering new algorithms to estimate various surface parameters over complex terrains, such as surface reflectance, surface albedo, shortwave radiation. Because terrain effects are often overlooked, these estimates can carry considerable uncertainty in mountainous landscapes. My work addresses this challenge through topography-incoporated estimation algorithms that help reduce this uncertainty and improve the robustness of estimates across complex terrains. As mountains face rapid climate change, remote sensing offers unparalleled long-term, large-scale monitoring capabilities, and I'm excited about how my work empowers critical studies in environmental science and beyond.
+I am a remote sensing guy passionate about pioneering new algorithms to estimate various surface parameters over complex terrains, such as surface reflectance, surface albedo, shortwave radiation. Because terrain effects are often overlooked, these estimates can carry considerable uncertainty in mountainous landscapes. My work addresses this challenge through topography-incoporated estimation algorithms that help reduce this uncertainty and improve the robustness of estimates across complex terrains. As mountains face rapid climate change, remote sensing offers unparalleled long-term, large-scale monitoring capabilities, and I'm excited about how my work empowers critical studies in environmental science and beyond.
 
 Currently, I am a Post-doctoral Research Fellow in the Department of Geography at the University of Hong Kong, working with Prof. [Shunlin Liang](https://geog.hku.hk/sl-liang). You can access our Lab Page [here](https://jcqrs.hku.hk/).
 
-## Publications {#publications}
+## 📚 Publications {#publications}
 ------
 1. Ma, H.#, **Ma, Y.**#, ..., Liang, S., 2026. The State of Optical Land Remote Sensing. *Proceedings of IEEE* (in proof, co-first author).
 2. **Ma, Y.**, Liang, S., He, T., Wen, J., Li, A., Ma, H., Yao, Y., Xu, J., Li, W., Zhang, Y., 2026. [Mitigating Topographic Effects in Optical Remote Sensing: From surface reflectance to high-level products](https://ieeexplore.ieee.org/document/11524199). *IEEE Geoscience and Remote Sensing Magazine*, 2-44 (Early Access)
@@ -53,23 +53,23 @@ Currently, I am a Post-doctoral Research Fellow in the Department of Geography a
 38. Jiang, B., Han, J., Liang, H., Liang, S., Yin, X., Peng, J., He, T. and **Ma, Y.**, 2023. The Hi-GLASS all-wave daily net radiation product: Algorithm and product validation. *Science of Remote Sensing*, 7, p.100080.
 39. Xiao, X., He, T., Liang, S., Liu, X., **Ma, Y.**, Liang, S. and Chen, X., 2022. Estimating fractional snow cover in vegetated environments using MODIS surface reflectance data. *International Journal of Applied Earth Observation and Geoinformation*, 114, 103030.
 
-## Patent
+## 💡 Patent
 ------
 **Ma, Y.**, Liang, S., Ma, H. An estimation method for mountainous surface reflectance from remote sensing. Chinese Patent: FIE25230075
 
-## Book Chapter
+## 📖 Book Chapter
 ------
 1. He, T., **Ma, Y.**, Hilker, T. (2026) [3.03 - Surface Reflectance/Bidirectional Reflectance Distribution Function](https://doi.org/10.1016/B978-0-443-13220-9.00097-4). *Comprehensive Remote Sensing (Second Edition)*, 3, 21-30, ISBN:9780443239496 (Published by Elsevier)  
 2. He, T., **Ma, Y.**, Wang, D., Qu, Y. (2026) [5.08 - Land Surface Albedo](https://www.sciencedirect.com/science/article/pii/B9780443132209000834). *Comprehensive Remote Sensing (Second Edition)*, 5, 206-231, ISBN:9780443239496 (Published by Elsevier)  
 
 
-## Editorial and reivew experience
+## ✍️ Editorial and reivew experience
 ------
 **·** Guest editor for *Remote Sensing* Special Issue "[Radiative Transfer Models for Remote Sensing Land Surface Parameter Estimation](https://www.mdpi.com/journal/remotesensing/special_issues/74JW6QG70G)"
 
 **·** Active reviewer for leading international journals (with over 90 completed reviews), including *Remote Sensing of Environment*, *ISPRS Journal of Photogrammetry and Remote Sensing*, *IEEE Transactions on Geoscience and Remote Sensing*, *International Journal of Applied Earth Observation and Geoinformation*, *GIScience & Remote Sensing*, *Journal of Remote Sensing*, *Science of Remote Sensing*, *Agricultural and Forest Meteorology*, *Applied Energy*, *Renewable Energy*, *Journal of Hydrology*, *Atmospheric Chemistry and Physics*, *Building and Envrionment*, etc.
 
-## Research Interest {#research}
+## 🔬 Research Interest {#research}
 ------
 **·** Investigating Topography's Impact on Satellite Data: With most satellite algorithms ignoring topographic effects like shadowing, evaluating the reliability of multiple satellite-estimated surface parameters across varied spatial and temporal scales.
 
@@ -77,7 +77,7 @@ Currently, I am a Post-doctoral Research Fellow in the Department of Geography a
 
 **·** Updating scientific knowledge about mountains: With advanced, topography-integrated satellite products, exploring new insights into comprehension of energy budgets and ecosystems in mountain areas.
 
-## Education {#education}
+## 🎓 Education {#education}
 ------
 **·** Ph.D. in Remote Sensing Science and Technology (Sep/2019-Jun/2024)  
 Wuhan University (WHU), Supervisor: Prof. [Tao He](https://jszy.whu.edu.cn/hetao1/zh_CN/)
@@ -88,7 +88,7 @@ CSIRO Environment, Supervisor: Dr. [Tim McVicar](https://people.csiro.au/M/T/Tim
 **·** BEng in Spatial Information and Digital Technology (Sep/2015-Jun/2019)  
 University of Electronic Science and Technology of China (UESTC), Supervisor: Prof. [Binbin He](https://faculty.uestc.edu.cn/hebinbin/zh_CN/index.htm) and Prof. [Minfeng Xing](https://faculty.uestc.edu.cn/xingminfeng/zh_CN/index.htm)
 
-## Awards {#awards}
+## 🏆 Awards {#awards}
 ------
 **·** Wuhan University Academic Innovation Award, 2025  
 **·** National Scholarship, 2023/2018/2017  
@@ -101,7 +101,7 @@ University of Electronic Science and Technology of China (UESTC), Supervisor: Pr
 **·** Full scholarship for Technion summer school (150 students in China and 3 at UESTC), 2018  
 **·** Tang Lixin scholarship (60 out of all students at UESTC), 2018  
 
-## Personal information {#personal}
+## 🌏 Personal information {#personal}
 ------
 Born in Xi'an, China, I like noodles!
 
