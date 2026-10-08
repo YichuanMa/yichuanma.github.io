@@ -63,6 +63,7 @@ University of Electronic Science and Technology of China (UESTC), Supervisor: Pr
 
 ## 🏆 Awards {#awards}
 ------
+**·** Future Earth Early-Career Fellowship, 2026
 **·** Wuhan University Academic Innovation Award, 2025  
 **·** National Scholarship, 2023/2018/2017  
 **·** Grand prize of “Wang Zhizhuo Innovation Award” (2 at WHU), 2023  
